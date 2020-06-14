@@ -1,2 +1,2 @@
 # Object-Detection-Computer-Vision
-Description : Detection of vast variety of objects using YOLOV3 
+__Description : Detection of vast variety of objects using YOLOV3__
